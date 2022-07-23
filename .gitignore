@@ -1,0 +1,38 @@
+# Ignoring the Virtual Environment
+.HSN_env/*
+*/HSN_env
+
+.HSN_env/Include/*
+*/HSN_env/Include
+
+.HSN_env/Lib/*
+*/HSN_env/Lib
+
+.HSN_env/Scripts/*
+*/HSN_env/Scripts
+
+.HSN_env/share/*
+*/HSN_env/share
+
+# Ignoring .ipynb checkpoints
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+
+# Ignoring the Labelimg repository as it is not a part of project
+Tensorflow/labelimg/*
+*/.Tensorflow/labelimg
+
+Tensorflow/models/*
+*/.Tensorflow/models
+
+Tensorflow/protoc/*
+*/.Tensorflow/protoc
+
+Tensorflow/scripts/*
+*/.Tensorflow/scritps
+
+Tensorflow/workspace/models/*
+*/.Tensorflow/workspace/models
+
+Tensorflow/workspace/pre-trained-models/*
+*/.Tensorflow/workspace/pre-trained-models
