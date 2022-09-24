@@ -2,7 +2,7 @@
 
 ## Acknowledgements
 
-I take this opportunity to express my sincere thanks to Mr. Nicholas Renotte, his work on hand sign detection using tensorflow was a great help for me in making my own project and bring it to a level where it can be used to make sentences.
+We take this opportunity to express our sincere thanks to Mr. Nicholas Renotte, his work on hand sign detection using tensorflow, it was a great help to us in making our own project and bring it to a level where it can be used to make sentences. Also, I would like to thank our mentor Ms. Arshi Riyaz who has been a great help and under her guidance we learnt a lot.
 This project was an amazing journey of learning and I have enclosed some of the links which have helped me during my journey to make this project.
 - [Nicholas Renotte](https://github.com/nicknochnack)
 - [Label Image](https://github.com/tzutalin/labelImg)
